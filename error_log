@@ -1,0 +1,8 @@
+[28-Mar-2017 07:19:19 Etc/GMT] PHP Fatal error:  Cannot redeclare Welcome::facilities() in /home/gfincpnt/public_html/shrirampublicschool.org/application/controllers/welcome.php on line 52
+[28-Mar-2017 07:19:26 Etc/GMT] PHP Fatal error:  Cannot redeclare Welcome::facilities() in /home/gfincpnt/public_html/shrirampublicschool.org/application/controllers/welcome.php on line 52
+[28-Mar-2017 07:19:29 Etc/GMT] PHP Fatal error:  Cannot redeclare Welcome::facilities() in /home/gfincpnt/public_html/shrirampublicschool.org/application/controllers/welcome.php on line 52
+[28-Mar-2017 07:20:06 Etc/GMT] PHP Fatal error:  Cannot redeclare Welcome::facilities() in /home/gfincpnt/public_html/shrirampublicschool.org/application/controllers/welcome.php on line 52
+[28-Mar-2017 07:20:07 Etc/GMT] PHP Fatal error:  Cannot redeclare Welcome::facilities() in /home/gfincpnt/public_html/shrirampublicschool.org/application/controllers/welcome.php on line 52
+[28-Mar-2017 07:20:32 Etc/GMT] PHP Fatal error:  Cannot redeclare Welcome::facilities() in /home/gfincpnt/public_html/shrirampublicschool.org/application/controllers/welcome.php on line 52
+[28-Mar-2017 07:21:31 Etc/GMT] PHP Fatal error:  Cannot redeclare Welcome::facilities() in /home/gfincpnt/public_html/shrirampublicschool.org/application/controllers/welcome.php on line 52
+[28-Mar-2017 07:21:32 Etc/GMT] PHP Fatal error:  Cannot redeclare Welcome::facilities() in /home/gfincpnt/public_html/shrirampublicschool.org/application/controllers/welcome.php on line 52
